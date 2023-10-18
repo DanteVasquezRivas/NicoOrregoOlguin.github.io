@@ -34,3 +34,13 @@ body {
   }
 
 }
+
+i:hover {
+  color: cyan;
+  text-shadow: 4px 4px 6px gray;
+  cursor: pointer;
+}
+
+i:active {
+  color: rgb(130, 255, 255);
+}
