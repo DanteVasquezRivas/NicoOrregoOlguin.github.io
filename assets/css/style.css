@@ -11,23 +11,19 @@ body {
 }
 
 
-#Mis-trabajos .image-top {
+#Educacion .image-top {
   height: 250px;
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
 }
 
-
-#Contacto form label {
-  font-weight: 700;
-  color: #373a3c;
+#Experiencia .image-top {
+  height: 250px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
 }
-
-@media (max-width: 768px) {
-  #Contacto form label {
-    font-weight: 400;
-  }
 
   .navbar-brand{
     width: 100px;
